@@ -146,7 +146,7 @@ def iniciar():
         iniciar()
     elif int(opcion) == 7:
         print(Fore.RED+"Recuerda precionar CTRL + X para salir"+Fore.RESET)
-        
+        atackred()
         iniciar()
 
 
