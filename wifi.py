@@ -115,7 +115,7 @@ def iniciar():
 
 
 
-    opcion = (input("Elige tu opcion---> "))
+    opcion = (input("Elige una opcion---> "))
     #Interfaz
     if int(opcion) == 1:
         msinterfaz()
