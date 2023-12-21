@@ -90,7 +90,7 @@ def banner():
     ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚══════╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░
     """)
     print(Fore.CYAN+Banner+Fore.RESET)
-    by = "𝘾𝙤𝙙𝙚 𝘽𝙮 @𝘾𝙧𝙞𝙛𝙩𝙘𝙠𝙞𝙣𝙜 | @𝙂𝙝𝙤𝙨𝙩𝙃𝙖𝙩_𝙍𝙚𝙖𝙡"
+    by = "𝘾𝙤𝙙𝙚 𝘽𝙮 @𝘾𝙧𝙞𝙛𝙩𝙘𝙠𝙞𝙣𝙜 | @𝙂𝙝𝙤𝙨𝙩𝙃𝙖𝙩_𝙍𝙚𝙖𝙡  BTC WALLET: 13MEq6AABjuzHZEprcRWDckS1PijxYNrPN"  
     print(Fore.BLUE+by+Fore.RESET)
     
 banner()
